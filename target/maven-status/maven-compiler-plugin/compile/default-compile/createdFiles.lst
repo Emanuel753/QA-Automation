@@ -1,0 +1,10 @@
+Navigation\NavigateTo.class
+Navigation\PaginaPrincipal.class
+UI\SeccionTVPage.class
+Task\AceptarCookiesTask.class
+Questions\ValidarPrecioQuestion.class
+UI\DetalleProductoPage.class
+Task\OrdenarDeMenorAMayorTask.class
+UI\HomePage.class
+Task\SeleccionarTVTask.class
+Task\IngresarSeccionTVTask.class
